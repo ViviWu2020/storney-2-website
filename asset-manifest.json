@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/storney-2-website/static/css/main.e0a28205.chunk.css",
+    "main.js": "/storney-2-website/static/js/main.6c78bbb7.chunk.js",
+    "main.js.map": "/storney-2-website/static/js/main.6c78bbb7.chunk.js.map",
+    "runtime-main.js": "/storney-2-website/static/js/runtime-main.a0b74fac.js",
+    "runtime-main.js.map": "/storney-2-website/static/js/runtime-main.a0b74fac.js.map",
+    "static/js/2.e7c8523a.chunk.js": "/storney-2-website/static/js/2.e7c8523a.chunk.js",
+    "static/js/2.e7c8523a.chunk.js.map": "/storney-2-website/static/js/2.e7c8523a.chunk.js.map",
+    "index.html": "/storney-2-website/index.html",
+    "static/css/main.e0a28205.chunk.css.map": "/storney-2-website/static/css/main.e0a28205.chunk.css.map",
+    "static/js/2.e7c8523a.chunk.js.LICENSE.txt": "/storney-2-website/static/js/2.e7c8523a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a0b74fac.js",
+    "static/js/2.e7c8523a.chunk.js",
+    "static/css/main.e0a28205.chunk.css",
+    "static/js/main.6c78bbb7.chunk.js"
+  ]
+}
